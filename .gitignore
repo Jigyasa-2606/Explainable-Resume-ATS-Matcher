@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Generated data/artifacts
+artifacts/
+data/cache/
+data/processed/
+data/features/
+
+# Runtime logs
+*.log

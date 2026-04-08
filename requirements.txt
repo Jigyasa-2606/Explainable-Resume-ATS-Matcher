@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+PyMuPDF
+pytesseract
+pdf2image
+docx2txt
+scipy
+joblib
+xgboost
+shap
+streamlit
