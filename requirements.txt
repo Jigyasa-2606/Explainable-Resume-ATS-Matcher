@@ -1,9 +1,0 @@
-streamlit
-scikit-learn
-pypdf
-python-docx
-joblib
-requests
-fastapi
-uvicorn
-python-multipart
