@@ -10,12 +10,6 @@ analysis.
 pip install -r requirements.txt
 ```
 
-## Deployment
-
-For Vercel + Render deployment, see [`DEPLOYMENT.md`](DEPLOYMENT.md).
-
-## Run the Web App
-
 ### React + FastAPI App
 
 This is the recommended UI for the Live Job Finder.
